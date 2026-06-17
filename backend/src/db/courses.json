@@ -1,0 +1,105 @@
+[
+  {
+    "id": "course-1",
+    "title": "Full-Stack Web Development (MERN)",
+    "description": "Master modern web development using MongoDB, Express, React, and Node.js. Build real-world applications.",
+    "category": "Web Development",
+    "level": "Intermediate",
+    "duration": "12 weeks",
+    "fee": 25000,
+    "instructorId": "inst-1",
+    "instructorName": "Dr. Sandeep Koirala",
+    "enrollmentDeadline": "2026-06-30",
+    "prerequisites": "Basic understanding of programming (HTML/CSS)",
+    "syllabus": [
+      "Introduction to HTML5, CSS3, & Modern JS",
+      "React.js Fundamentals & Hooks",
+      "Routing, State Management (Redux/Context)",
+      "Node.js & Express Server setup",
+      "MongoDB Database Designing & Mongoose",
+      "REST API Development & Authentication",
+      "Deployment (Vercel, Heroku, AWS)"
+    ],
+    "demoSlots": [
+      {
+        "id": "slot-1",
+        "date": "2026-06-15",
+        "time": "11:00 AM - 12:30 PM",
+        "booked": false
+      },
+      {
+        "id": "slot-2",
+        "date": "2026-06-18",
+        "time": "03:00 PM - 04:30 PM",
+        "booked": false
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600",
+    "popularity": 98,
+    "createdAt": "2026-05-01"
+  },
+  {
+    "id": "course-2",
+    "title": "Python for Data Science & Machine Learning",
+    "description": "Analyze large datasets and build predictive models using NumPy, Pandas, Scikit-Learn, and TensorFlow.",
+    "category": "Data Science & Analytics",
+    "level": "Advanced",
+    "duration": "10 weeks",
+    "fee": 30000,
+    "instructorId": "inst-1",
+    "instructorName": "Dr. Sandeep Koirala",
+    "enrollmentDeadline": "2026-07-05",
+    "prerequisites": "Basic Mathematics and programming logic",
+    "syllabus": [
+      "Python Crash Course & Object-Oriented Concepts",
+      "Data Analysis with Pandas and NumPy",
+      "Data Visualization (Matplotlib, Seaborn)",
+      "Supervised Learning: Regression & Classification",
+      "Unsupervised Learning: Clustering & PCA",
+      "Introduction to Deep Learning & Neural Networks"
+    ],
+    "demoSlots": [
+      {
+        "id": "slot-3",
+        "date": "2026-06-16",
+        "time": "01:00 PM - 02:30 PM",
+        "booked": false
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600",
+    "popularity": 94,
+    "createdAt": "2026-05-10"
+  },
+  {
+    "id": "course-3",
+    "title": "UI/UX Design & Graphic Artistry",
+    "description": "Learn design thinking, wireframing, prototyping, and graphic design using Figma, Photoshop, and Illustrator.",
+    "category": "Graphic Design",
+    "level": "Beginner",
+    "duration": "8 weeks",
+    "fee": 18000,
+    "instructorId": "inst-2",
+    "instructorName": "Neha Sharma",
+    "enrollmentDeadline": "2026-06-25",
+    "prerequisites": "No prior experience required",
+    "syllabus": [
+      "Design Fundamentals, Typography & Color Theory",
+      "User Research & Wireframing (Figma)",
+      "Interactive Prototyping & Micro-interactions",
+      "Vector Graphics Creation (Adobe Illustrator)",
+      "Photo Manipulation & Creative Art (Adobe Photoshop)",
+      "Creating Professional Design Portfolios"
+    ],
+    "demoSlots": [
+      {
+        "id": "slot-4",
+        "date": "2026-06-14",
+        "time": "10:00 AM - 11:30 AM",
+        "booked": false
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1581291518655-9523c932dedf?w=600",
+    "popularity": 91,
+    "createdAt": "2026-05-15"
+  }
+]

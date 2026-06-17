@@ -1,0 +1,61 @@
+[
+  {
+    "id": "enroll-1",
+    "userId": "stud-1",
+    "userName": "Rohan Adhikari",
+    "courseId": "course-1",
+    "courseTitle": "Full-Stack Web Development (MERN)",
+    "amountPaid": 12500,
+    "paymentMethod": "eSewa",
+    "paymentStatus": "Paid",
+    "transactionId": "TXN-ESEWA-88493021",
+    "date": "2026-06-01T10:15:30Z",
+    "installment": "1st Installment",
+    "invoiceNo": "INV-2026-001"
+  },
+  {
+    "id": "enro-7m4o4vn1b",
+    "userId": "stud-1",
+    "userName": "Rohan Adhikari",
+    "courseId": "course-1",
+    "courseTitle": "Full-Stack Web Development (MERN)",
+    "amountPaid": 25000,
+    "paymentMethod": "eSewa",
+    "paymentStatus": "Paid",
+    "transactionId": "TXN-ESEWA-59982251",
+    "date": "2026-06-14T10:21:54.021Z",
+    "installment": "Full Payment",
+    "invoiceNo": "INV-2026-610",
+    "createdAt": "2026-06-14T10:21:54.022Z"
+  },
+  {
+    "id": "enro-moajpg0l7",
+    "userId": "stud-1",
+    "userName": "Rohan Adhikari",
+    "courseId": "course-1",
+    "courseTitle": "Full-Stack Web Development (MERN)",
+    "amountPaid": 12500,
+    "paymentMethod": "eSewa",
+    "paymentStatus": "Paid",
+    "transactionId": "TXN-ESEWA-44368677",
+    "date": "2026-06-17T05:45:25.404Z",
+    "installment": "50% First Installment",
+    "invoiceNo": "INV-2026-362",
+    "createdAt": "2026-06-17T05:45:25.409Z"
+  },
+  {
+    "id": "enro-4mwxtd4my",
+    "userId": "admin-1",
+    "userName": "Srijana Admin",
+    "courseId": "course-1",
+    "courseTitle": "Full-Stack Web Development (MERN)",
+    "amountPaid": 25000,
+    "paymentMethod": "eSewa",
+    "paymentStatus": "Paid",
+    "transactionId": "TXN-ESEWA-28996538",
+    "date": "2026-06-17T06:41:53.052Z",
+    "installment": "Full Payment",
+    "invoiceNo": "INV-2026-321",
+    "createdAt": "2026-06-17T06:41:53.052Z"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "assign-1",
+    "title": "Build Responsive Personal Portfolio Website",
+    "description": "Create a fully responsive personal portfolio using clean semantic HTML and CSS. Deploy it on GitHub Pages.",
+    "courseId": "course-1",
+    "dueDate": "2026-06-20",
+    "submissions": [
+      {
+        "studentId": "stud-1",
+        "studentName": "Rohan Adhikari",
+        "submissionText": "Here is my portfolio URL: rohandev.github.io/portfolio",
+        "submissionDate": "2026-06-08T14:30:00Z",
+        "grade": "A",
+        "feedback": "Excellent layout structure and typography! Great job on responsiveness."
+      }
+    ]
+  }
+]

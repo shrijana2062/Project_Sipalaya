@@ -1,0 +1,20 @@
+[
+  {
+    "id": "job-1",
+    "title": "Junior React Developer",
+    "company": "TechCraft Solutions (Kathmandu)",
+    "description": "We are looking for a motivated React developer. Familiarity with state management and Tailwind CSS is a plus.",
+    "deadline": "2026-06-30",
+    "applicationLink": "https://techcraft.com.np/careers",
+    "requirements": "React.js, Javascript, CSS, Git"
+  },
+  {
+    "id": "job-2",
+    "title": "Associate UI/UX Designer",
+    "company": "CreativeEdge Agency",
+    "description": "Design mockups, interactive prototypes and maintain design systems for client web applications.",
+    "deadline": "2026-07-15",
+    "applicationLink": "https://creativeedge.org/jobs",
+    "requirements": "Figma, Adobe XD, Portfolio showcasing design process"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "bk-1",
+    "courseId": "course-1",
+    "courseTitle": "Full-Stack Web Development (MERN)",
+    "slotId": "slot-1",
+    "date": "2026-06-15",
+    "time": "11:00 AM - 12:30 PM",
+    "name": "Aashish Giri",
+    "email": "aashish@gmail.com",
+    "phone": "9851012345",
+    "status": "Confirmed"
+  }
+]

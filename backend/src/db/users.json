@@ -1,0 +1,69 @@
+[
+  {
+    "id": "admin-1",
+    "name": "Srijana Admin",
+    "email": "admin@it-tms.com",
+    "password": "adminpassword",
+    "role": "admin",
+    "phone": "+977-9800000000",
+    "enrolledCourses": [
+      "course-1"
+    ],
+    "progress": {
+      "course-1": 0
+    },
+    "attendance": {
+      "course-1": []
+    }
+  },
+  {
+    "id": "inst-1",
+    "name": "Dr. Sandeep Koirala",
+    "email": "sandeep@it-tms.com",
+    "password": "password123",
+    "role": "instructor",
+    "phone": "+977-9811111111",
+    "bio": "Ph.D. in Computer Science with 12+ years of teaching and industrial development experience.",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+    "qualifications": "Ph.D. CS, Certified Java Enterprise Architect",
+    "achievements": "Authored 3 books on Web Architecture"
+  },
+  {
+    "id": "inst-2",
+    "name": "Neha Sharma",
+    "email": "neha@it-tms.com",
+    "password": "password123",
+    "role": "instructor",
+    "phone": "+977-9822222222",
+    "bio": "Senior UI/UX Designer and Frontend Specialist. Worked with global design agencies.",
+    "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150",
+    "qualifications": "M.Des, Adobe Certified Expert",
+    "achievements": "Designed apps with 1M+ active users"
+  },
+  {
+    "id": "stud-1",
+    "name": "Rohan Adhikari",
+    "email": "rohan@gmail.com",
+    "password": "password123",
+    "role": "student",
+    "phone": "+977-9841234567",
+    "enrolledCourses": [
+      "course-1"
+    ],
+    "progress": {
+      "course-1": 75
+    },
+    "attendance": {
+      "course-1": [
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03",
+        "2026-06-05",
+        "2026-06-08",
+        "2026-06-09",
+        "2026-06-14",
+        "2026-06-17"
+      ]
+    }
+  }
+]

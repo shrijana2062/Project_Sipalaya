@@ -1,0 +1,24 @@
+[
+  {
+    "id": "blog-1",
+    "title": "Why MERN Stack is the Ultimate Choice for Web Developers in 2026",
+    "excerpt": "Unpacking the dominance of React, Node, Express, and MongoDB. Learn why this ecosystem remains top-tier for building modern SaaS products.",
+    "content": "In 2026, web development is faster and more dynamic than ever. The MERN stack continues to be the industry favorite because of its single-language ecosystem (JavaScript/TypeScript from database to frontend). React allows developers to build smooth, fluid user interfaces. Node and Express handle high-throughput server requirements with ease, and MongoDB gives the ultimate schema flexibility. In this post, we discuss the core advantages of learning MERN and how it increases your hireability in the tech ecosystem...",
+    "category": "Tech Trends",
+    "author": "Admin Team",
+    "readTime": "5 min read",
+    "image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=600",
+    "date": "2026-06-01"
+  },
+  {
+    "id": "blog-2",
+    "title": "How to Build a Successful Career in Tech: A Step-by-Step Guide",
+    "excerpt": "Struggling to find your first developer role? Here is a practical roadmap detailing portfolio building, networking, and interview prep.",
+    "content": "Breaking into the tech industry can feel overwhelming with the sheer number of frameworks and concepts. The secret lies in structured learning and consistency. First, select a solid core path—whether it is design, coding, or data science. Second, build micro-projects that demonstrate you can solve problems. Third, work on your communication. A developer who can speak well and write clean documentation is twice as valuable. Read on to see our recommended job-hunting timeline...",
+    "category": "Career Advice",
+    "author": "Sandeep Koirala",
+    "readTime": "7 min read",
+    "image": "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=600",
+    "date": "2026-06-05"
+  }
+]

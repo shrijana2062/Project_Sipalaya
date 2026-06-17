@@ -1,0 +1,43 @@
+[
+  {
+    "id": "rev-1",
+    "courseId": "course-1",
+    "courseTitle": "Full-Stack Web Development (MERN)",
+    "studentId": "stud-1",
+    "studentName": "Rohan Adhikari",
+    "rating": 5,
+    "reviewText": "The MERN stack program at Sipalaya is exceptional. The curriculum is purely hands-on, covering everything from core ES6 JS up to deploying production react applications. The instructor provided valuable support on every assignment.",
+    "date": "2026-06-10T09:00:00.000Z"
+  },
+  {
+    "id": "rev-2",
+    "courseId": "course-1",
+    "courseTitle": "Full-Stack Web Development (MERN)",
+    "studentId": "stud-2",
+    "studentName": "Aashish Giri",
+    "rating": 5,
+    "reviewText": "Superb course! I entered with minimal JS skills, and now I can comfortably build complete REST APIs. The placement coordinator also helped refine my resume for F1Soft internships.",
+    "date": "2026-06-12T14:20:00.000Z"
+  },
+  {
+    "id": "rev-3",
+    "courseId": "course-3",
+    "courseTitle": "UI/UX Design & Graphic Artistry",
+    "studentId": "stud-3",
+    "studentName": "Sujata Shakya",
+    "rating": 5,
+    "reviewText": "Great experience learning from Neha Sharma. The course runs from design fundamentals to wireframing and interactive prototyping. Highly recommended for aspiring UI/UX designers in Nepal.",
+    "date": "2026-06-13T10:15:30.000Z"
+  },
+  {
+    "id": "revi-ljsq9nvuf",
+    "courseId": "course-1",
+    "courseTitle": "Full-Stack Web Development (MERN)",
+    "studentId": "stud-1",
+    "studentName": "Rohan Adhikari",
+    "rating": 3,
+    "reviewText": "aaa",
+    "date": "2026-06-17T06:34:37.934Z",
+    "createdAt": "2026-06-17T06:34:37.935Z"
+  }
+]

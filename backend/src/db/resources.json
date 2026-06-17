@@ -1,0 +1,32 @@
+[
+  {
+    "id": "res-1",
+    "title": "MERN Stack Module 1: ES6 Javascript Basics & DOM",
+    "courseId": "course-1",
+    "courseTitle": "Full-Stack Web Development (MERN)",
+    "type": "PDF Document",
+    "link": "https://javascript.info/",
+    "uploadedBy": "Dr. Sandeep Koirala",
+    "date": "2026-06-02T10:00:00Z"
+  },
+  {
+    "id": "res-2",
+    "title": "React Hooks Deep Dive - Live Class Video",
+    "courseId": "course-1",
+    "courseTitle": "Full-Stack Web Development (MERN)",
+    "type": "Video Lecture",
+    "link": "https://www.youtube.com/watch?v=Ke90Tje7VS0",
+    "uploadedBy": "Dr. Sandeep Koirala",
+    "date": "2026-06-06T14:30:00Z"
+  },
+  {
+    "id": "res-3",
+    "title": "Typography and Color Principles Handout",
+    "courseId": "course-3",
+    "courseTitle": "UI/UX Design & Graphic Artistry",
+    "type": "PDF Document",
+    "link": "https://fonts.google.com/knowledge",
+    "uploadedBy": "Neha Sharma",
+    "date": "2026-06-05T09:15:00Z"
+  }
+]
